@@ -4,11 +4,7 @@ class UsersController < ApplicationController
 
   # GET /user/edit
   def edit
-    # hello
-    # world
-    # manh dep trai vo cung
-    # xin chao
-    # toi ten la Son
+    # tuan hello world
   end
 
   #PUT /user
